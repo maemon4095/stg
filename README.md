@@ -1,0 +1,1 @@
+# STG (Structured Image)
